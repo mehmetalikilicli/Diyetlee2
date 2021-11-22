@@ -1,16 +1,6 @@
 # diyetlee
 
-A new Flutter project.
+Flutter'da yaptigim diyetlerin, yemeklerin ve egzersizlerin bulunduğu uygulamam.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_2021-11-22-17-06-47-775_com example diyetlee2](https://user-images.githubusercontent.com/58392243/142876918-5ae188dd-a3f0-4e55-b28a-0e50e14e1e8b.jpg) 
+![Screenshot_2021-11-22-17-06-55-065_com example diyetlee2](https://user-images.githubusercontent.com/58392243/142876921-1f4f9307-8170-4d7a-8fe1-ed1cef28ca63.jpg)
