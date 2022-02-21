@@ -1,6 +1,6 @@
 # diyetlee
 
-Flutter'da yaptigim diyetlerin, yemeklerin ve egzersizlerin bulunduğu uygulamam.
+Flutter'da yaptigim, diyetlerin, yemeklerin ve egzersizlerin bulunduğu uygulamam.
 
 ![Screenshot_2021-11-26-14-16-31-008_com example diyetlee](https://user-images.githubusercontent.com/58392243/143574315-c9347680-11bd-46a0-a1ec-fdd30819c935.jpg)
 ![Screenshot_2021-11-26-14-16-48-587_com example diyetlee](https://user-images.githubusercontent.com/58392243/143574317-9d69c900-8b1c-4fbd-a870-38578d7ca172.jpg)
